@@ -13,6 +13,8 @@ namespace smartup
             Console.WriteLine("Hello smart-up");
             Console.WriteLine("hello hello");
 
+
+            Console.WriteLine();
         }
     }
 }
