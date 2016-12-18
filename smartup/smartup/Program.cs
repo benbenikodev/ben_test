@@ -11,6 +11,8 @@ namespace smartup
         static void Main(string[] args)
         {
             Console.WriteLine("Hello smart-up");
+            Console.WriteLine("hello hello");
+
         }
     }
 }
