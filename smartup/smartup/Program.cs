@@ -14,7 +14,7 @@ namespace smartup
             Console.WriteLine("hello hello");
 
 
-            Console.WriteLine();
+            Console.WriteLine("ben");
         }
     }
 }
